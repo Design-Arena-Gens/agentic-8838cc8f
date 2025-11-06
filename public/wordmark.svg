@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="860" height="160" viewBox="0 0 860 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Goodluck Footwear wordmark">
+  <title>Goodluck Footwear Wordmark</title>
+  <rect width="860" height="160" rx="20" fill="white" stroke="#E5E7EB"/>
+  <g transform="translate(28,48)" fill="#0F172A">
+    <text x="0" y="52" font-size="72" font-weight="800" letter-spacing="0.02em" font-family="'Inter','Poppins','Segoe UI',Arial,Helvetica,sans-serif">GOODLUCK</text>
+    <text x="0" y="92" font-size="28" font-weight="600" letter-spacing="0.32em" font-family="'Inter','Poppins','Segoe UI',Arial,Helvetica,sans-serif">FOOTWEAR</text>
+  </g>
+</svg>
